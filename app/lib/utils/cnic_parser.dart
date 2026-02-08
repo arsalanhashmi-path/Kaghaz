@@ -31,7 +31,7 @@ class CnicData {
 class CnicParser {
   // TODO: Replace with your actual Gemini API Key
   // You can get one at https://aistudio.google.com/app/apikey
-  static const String _apiKey = 'AIzaSyCdrRpgGD-eOwSl3WX8aMPxbHOKWVexHHU';
+  static const String _apiKey = 
   
   late final GenerativeModel _model;
 
