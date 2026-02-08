@@ -1,0 +1,277 @@
+> Task :gradle:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :gradle:compileKotlin UP-TO-DATE
+> Task :gradle:compileJava NO-SOURCE
+> Task :gradle:compileGroovy NO-SOURCE
+> Task :gradle:pluginDescriptors UP-TO-DATE
+> Task :gradle:processResources UP-TO-DATE
+> Task :gradle:classes UP-TO-DATE
+> Task :gradle:jar UP-TO-DATE
+
+> Task :app:signingReport
+Variant: debug
+Config: debug
+Store: C:\Users\Arsalan Hashmi\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 1F:46:22:E0:EC:FF:7C:AF:19:C1:25:82:87:1C:9D:AD
+SHA1: 0E:B2:FF:87:93:98:F3:12:41:0E:9B:C7:B6:7C:FC:F2:C2:D6:16:B5
+SHA-256: C8:66:10:D0:F4:E7:E3:F9:1A:31:FC:10:E9:9D:18:A7:9E:4C:38:25:47:85:E8:8C:FD:0B:8F:1F:8A:BB:AE:EB
+Valid until: Monday, January 17, 2056
+----------
+Variant: release
+Config: debug
+Store: C:\Users\Arsalan Hashmi\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 1F:46:22:E0:EC:FF:7C:AF:19:C1:25:82:87:1C:9D:AD
+SHA1: 0E:B2:FF:87:93:98:F3:12:41:0E:9B:C7:B6:7C:FC:F2:C2:D6:16:B5
+SHA-256: C8:66:10:D0:F4:E7:E3:F9:1A:31:FC:10:E9:9D:18:A7:9E:4C:38:25:47:85:E8:8C:FD:0B:8F:1F:8A:BB:AE:EB
+Valid until: Monday, January 17, 2056
+----------
+Variant: profile
+Config: debug
+Store: C:\Users\Arsalan Hashmi\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 1F:46:22:E0:EC:FF:7C:AF:19:C1:25:82:87:1C:9D:AD
+SHA1: 0E:B2:FF:87:93:98:F3:12:41:0E:9B:C7:B6:7C:FC:F2:C2:D6:16:B5
+SHA-256: C8:66:10:D0:F4:E7:E3:F9:1A:31:FC:10:E9:9D:18:A7:9E:4C:38:25:47:85:E8:8C:FD:0B:8F:1F:8A:BB:AE:EB
+Valid until: Monday, January 17, 2056
+----------
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\Arsalan Hashmi\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 1F:46:22:E0:EC:FF:7C:AF:19:C1:25:82:87:1C:9D:AD
+SHA1: 0E:B2:FF:87:93:98:F3:12:41:0E:9B:C7:B6:7C:FC:F2:C2:D6:16:B5
+SHA-256: C8:66:10:D0:F4:E7:E3:F9:1A:31:FC:10:E9:9D:18:A7:9E:4C:38:25:47:85:E8:8C:FD:0B:8F:1F:8A:BB:AE:EB
+Valid until: Monday, January 17, 2056
+----------
+
+> Task :cloud_firestore:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\Arsalan Hashmi\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 1F:46:22:E0:EC:FF:7C:AF:19:C1:25:82:87:1C:9D:AD
+SHA1: 0E:B2:FF:87:93:98:F3:12:41:0E:9B:C7:B6:7C:FC:F2:C2:D6:16:B5
+SHA-256: C8:66:10:D0:F4:E7:E3:F9:1A:31:FC:10:E9:9D:18:A7:9E:4C:38:25:47:85:E8:8C:FD:0B:8F:1F:8A:BB:AE:EB
+Valid until: Monday, January 17, 2056
+----------
+
+> Task :firebase_auth:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\Arsalan Hashmi\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 1F:46:22:E0:EC:FF:7C:AF:19:C1:25:82:87:1C:9D:AD
+SHA1: 0E:B2:FF:87:93:98:F3:12:41:0E:9B:C7:B6:7C:FC:F2:C2:D6:16:B5
+SHA-256: C8:66:10:D0:F4:E7:E3:F9:1A:31:FC:10:E9:9D:18:A7:9E:4C:38:25:47:85:E8:8C:FD:0B:8F:1F:8A:BB:AE:EB
+Valid until: Monday, January 17, 2056
+----------
+
+> Task :firebase_core:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\Arsalan Hashmi\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 1F:46:22:E0:EC:FF:7C:AF:19:C1:25:82:87:1C:9D:AD
+SHA1: 0E:B2:FF:87:93:98:F3:12:41:0E:9B:C7:B6:7C:FC:F2:C2:D6:16:B5
+SHA-256: C8:66:10:D0:F4:E7:E3:F9:1A:31:FC:10:E9:9D:18:A7:9E:4C:38:25:47:85:E8:8C:FD:0B:8F:1F:8A:BB:AE:EB
+Valid until: Monday, January 17, 2056
+----------
+
+> Task :flutter_plugin_android_lifecycle:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\Arsalan Hashmi\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 1F:46:22:E0:EC:FF:7C:AF:19:C1:25:82:87:1C:9D:AD
+SHA1: 0E:B2:FF:87:93:98:F3:12:41:0E:9B:C7:B6:7C:FC:F2:C2:D6:16:B5
+SHA-256: C8:66:10:D0:F4:E7:E3:F9:1A:31:FC:10:E9:9D:18:A7:9E:4C:38:25:47:85:E8:8C:FD:0B:8F:1F:8A:BB:AE:EB
+Valid until: Monday, January 17, 2056
+----------
+
+> Task :google_mlkit_barcode_scanning:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\Arsalan Hashmi\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 1F:46:22:E0:EC:FF:7C:AF:19:C1:25:82:87:1C:9D:AD
+SHA1: 0E:B2:FF:87:93:98:F3:12:41:0E:9B:C7:B6:7C:FC:F2:C2:D6:16:B5
+SHA-256: C8:66:10:D0:F4:E7:E3:F9:1A:31:FC:10:E9:9D:18:A7:9E:4C:38:25:47:85:E8:8C:FD:0B:8F:1F:8A:BB:AE:EB
+Valid until: Monday, January 17, 2056
+----------
+
+> Task :google_mlkit_commons:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\Arsalan Hashmi\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 1F:46:22:E0:EC:FF:7C:AF:19:C1:25:82:87:1C:9D:AD
+SHA1: 0E:B2:FF:87:93:98:F3:12:41:0E:9B:C7:B6:7C:FC:F2:C2:D6:16:B5
+SHA-256: C8:66:10:D0:F4:E7:E3:F9:1A:31:FC:10:E9:9D:18:A7:9E:4C:38:25:47:85:E8:8C:FD:0B:8F:1F:8A:BB:AE:EB
+Valid until: Monday, January 17, 2056
+----------
+
+> Task :google_mlkit_digital_ink_recognition:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\Arsalan Hashmi\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 1F:46:22:E0:EC:FF:7C:AF:19:C1:25:82:87:1C:9D:AD
+SHA1: 0E:B2:FF:87:93:98:F3:12:41:0E:9B:C7:B6:7C:FC:F2:C2:D6:16:B5
+SHA-256: C8:66:10:D0:F4:E7:E3:F9:1A:31:FC:10:E9:9D:18:A7:9E:4C:38:25:47:85:E8:8C:FD:0B:8F:1F:8A:BB:AE:EB
+Valid until: Monday, January 17, 2056
+----------
+
+> Task :google_mlkit_entity_extraction:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\Arsalan Hashmi\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 1F:46:22:E0:EC:FF:7C:AF:19:C1:25:82:87:1C:9D:AD
+SHA1: 0E:B2:FF:87:93:98:F3:12:41:0E:9B:C7:B6:7C:FC:F2:C2:D6:16:B5
+SHA-256: C8:66:10:D0:F4:E7:E3:F9:1A:31:FC:10:E9:9D:18:A7:9E:4C:38:25:47:85:E8:8C:FD:0B:8F:1F:8A:BB:AE:EB
+Valid until: Monday, January 17, 2056
+----------
+
+> Task :google_mlkit_face_detection:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\Arsalan Hashmi\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 1F:46:22:E0:EC:FF:7C:AF:19:C1:25:82:87:1C:9D:AD
+SHA1: 0E:B2:FF:87:93:98:F3:12:41:0E:9B:C7:B6:7C:FC:F2:C2:D6:16:B5
+SHA-256: C8:66:10:D0:F4:E7:E3:F9:1A:31:FC:10:E9:9D:18:A7:9E:4C:38:25:47:85:E8:8C:FD:0B:8F:1F:8A:BB:AE:EB
+Valid until: Monday, January 17, 2056
+----------
+
+> Task :google_mlkit_face_mesh_detection:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\Arsalan Hashmi\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 1F:46:22:E0:EC:FF:7C:AF:19:C1:25:82:87:1C:9D:AD
+SHA1: 0E:B2:FF:87:93:98:F3:12:41:0E:9B:C7:B6:7C:FC:F2:C2:D6:16:B5
+SHA-256: C8:66:10:D0:F4:E7:E3:F9:1A:31:FC:10:E9:9D:18:A7:9E:4C:38:25:47:85:E8:8C:FD:0B:8F:1F:8A:BB:AE:EB
+Valid until: Monday, January 17, 2056
+----------
+
+> Task :google_mlkit_image_labeling:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\Arsalan Hashmi\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 1F:46:22:E0:EC:FF:7C:AF:19:C1:25:82:87:1C:9D:AD
+SHA1: 0E:B2:FF:87:93:98:F3:12:41:0E:9B:C7:B6:7C:FC:F2:C2:D6:16:B5
+SHA-256: C8:66:10:D0:F4:E7:E3:F9:1A:31:FC:10:E9:9D:18:A7:9E:4C:38:25:47:85:E8:8C:FD:0B:8F:1F:8A:BB:AE:EB
+Valid until: Monday, January 17, 2056
+----------
+
+> Task :google_mlkit_language_id:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\Arsalan Hashmi\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 1F:46:22:E0:EC:FF:7C:AF:19:C1:25:82:87:1C:9D:AD
+SHA1: 0E:B2:FF:87:93:98:F3:12:41:0E:9B:C7:B6:7C:FC:F2:C2:D6:16:B5
+SHA-256: C8:66:10:D0:F4:E7:E3:F9:1A:31:FC:10:E9:9D:18:A7:9E:4C:38:25:47:85:E8:8C:FD:0B:8F:1F:8A:BB:AE:EB
+Valid until: Monday, January 17, 2056
+----------
+
+> Task :google_mlkit_object_detection:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\Arsalan Hashmi\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 1F:46:22:E0:EC:FF:7C:AF:19:C1:25:82:87:1C:9D:AD
+SHA1: 0E:B2:FF:87:93:98:F3:12:41:0E:9B:C7:B6:7C:FC:F2:C2:D6:16:B5
+SHA-256: C8:66:10:D0:F4:E7:E3:F9:1A:31:FC:10:E9:9D:18:A7:9E:4C:38:25:47:85:E8:8C:FD:0B:8F:1F:8A:BB:AE:EB
+Valid until: Monday, January 17, 2056
+----------
+
+> Task :google_mlkit_pose_detection:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\Arsalan Hashmi\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 1F:46:22:E0:EC:FF:7C:AF:19:C1:25:82:87:1C:9D:AD
+SHA1: 0E:B2:FF:87:93:98:F3:12:41:0E:9B:C7:B6:7C:FC:F2:C2:D6:16:B5
+SHA-256: C8:66:10:D0:F4:E7:E3:F9:1A:31:FC:10:E9:9D:18:A7:9E:4C:38:25:47:85:E8:8C:FD:0B:8F:1F:8A:BB:AE:EB
+Valid until: Monday, January 17, 2056
+----------
+
+> Task :google_mlkit_selfie_segmentation:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\Arsalan Hashmi\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 1F:46:22:E0:EC:FF:7C:AF:19:C1:25:82:87:1C:9D:AD
+SHA1: 0E:B2:FF:87:93:98:F3:12:41:0E:9B:C7:B6:7C:FC:F2:C2:D6:16:B5
+SHA-256: C8:66:10:D0:F4:E7:E3:F9:1A:31:FC:10:E9:9D:18:A7:9E:4C:38:25:47:85:E8:8C:FD:0B:8F:1F:8A:BB:AE:EB
+Valid until: Monday, January 17, 2056
+----------
+
+> Task :google_mlkit_smart_reply:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\Arsalan Hashmi\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 1F:46:22:E0:EC:FF:7C:AF:19:C1:25:82:87:1C:9D:AD
+SHA1: 0E:B2:FF:87:93:98:F3:12:41:0E:9B:C7:B6:7C:FC:F2:C2:D6:16:B5
+SHA-256: C8:66:10:D0:F4:E7:E3:F9:1A:31:FC:10:E9:9D:18:A7:9E:4C:38:25:47:85:E8:8C:FD:0B:8F:1F:8A:BB:AE:EB
+Valid until: Monday, January 17, 2056
+----------
+
+> Task :google_mlkit_text_recognition:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\Arsalan Hashmi\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 1F:46:22:E0:EC:FF:7C:AF:19:C1:25:82:87:1C:9D:AD
+SHA1: 0E:B2:FF:87:93:98:F3:12:41:0E:9B:C7:B6:7C:FC:F2:C2:D6:16:B5
+SHA-256: C8:66:10:D0:F4:E7:E3:F9:1A:31:FC:10:E9:9D:18:A7:9E:4C:38:25:47:85:E8:8C:FD:0B:8F:1F:8A:BB:AE:EB
+Valid until: Monday, January 17, 2056
+----------
+
+> Task :google_mlkit_translation:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\Arsalan Hashmi\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 1F:46:22:E0:EC:FF:7C:AF:19:C1:25:82:87:1C:9D:AD
+SHA1: 0E:B2:FF:87:93:98:F3:12:41:0E:9B:C7:B6:7C:FC:F2:C2:D6:16:B5
+SHA-256: C8:66:10:D0:F4:E7:E3:F9:1A:31:FC:10:E9:9D:18:A7:9E:4C:38:25:47:85:E8:8C:FD:0B:8F:1F:8A:BB:AE:EB
+Valid until: Monday, January 17, 2056
+----------
+
+> Task :google_sign_in_android:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\Arsalan Hashmi\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 1F:46:22:E0:EC:FF:7C:AF:19:C1:25:82:87:1C:9D:AD
+SHA1: 0E:B2:FF:87:93:98:F3:12:41:0E:9B:C7:B6:7C:FC:F2:C2:D6:16:B5
+SHA-256: C8:66:10:D0:F4:E7:E3:F9:1A:31:FC:10:E9:9D:18:A7:9E:4C:38:25:47:85:E8:8C:FD:0B:8F:1F:8A:BB:AE:EB
+Valid until: Monday, January 17, 2056
+----------
+
+> Task :image_picker_android:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\Arsalan Hashmi\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 1F:46:22:E0:EC:FF:7C:AF:19:C1:25:82:87:1C:9D:AD
+SHA1: 0E:B2:FF:87:93:98:F3:12:41:0E:9B:C7:B6:7C:FC:F2:C2:D6:16:B5
+SHA-256: C8:66:10:D0:F4:E7:E3:F9:1A:31:FC:10:E9:9D:18:A7:9E:4C:38:25:47:85:E8:8C:FD:0B:8F:1F:8A:BB:AE:EB
+Valid until: Monday, January 17, 2056
+----------
+
+[Incubating] Problems report is available at: file:///C:/Users/Arsalan%20Hashmi/Desktop/Path/Kaghaz/app/build/reports/problems/problems-report.html
+
+Deprecated Gradle features were used in this build, making it incompatible with Gradle 9.0.
+
+You can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins.
+
+For more on this, please refer to https://docs.gradle.org/8.14/userguide/command_line_interface.html#sec:command_line_warnings in the Gradle documentation.
+
+BUILD SUCCESSFUL in 5s
+25 actionable tasks: 21 executed, 4 up-to-date

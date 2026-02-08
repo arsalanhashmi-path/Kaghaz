@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "886310174914",
+    "project_id": "kaghazat-8fecc",
+    "storage_bucket": "kaghazat-8fecc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886310174914:android:ad985cb925ee16aa55fb5b",
+        "android_client_info": {
+          "package_name": "com.kaghaz.kaghaz_vault"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886310174914-0s1djm10q6ov55o740miomq2udb06cpb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kaghaz.kaghaz_vault",
+            "certificate_hash": "0eb2ff879398f312410e9bc7b67cfcf2c2d616b5"
+          }
+        },
+        {
+          "client_id": "886310174914-tpjubl83msmj8abak5jfaep8imr8h7qv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn17IDFXYOgx8bhBq0V6a1NoQASLrQoQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886310174914-tpjubl83msmj8abak5jfaep8imr8h7qv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

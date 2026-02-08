@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Kaghaz - Never Hear 'Kal Aana' Again</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Nastaliq+Urdu:wght@400;700&family=Playfair+Display:wght@600;700;800&display=swap" rel="stylesheet">
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            colors: {
+              'state-green': '#006400', // Deep Pakistan Green
+              'state-green-light': '#008000',
+              'state-green-dark': '#004d00',
+              'paper-white': '#F9FAFB',
+              'alert-red': '#DC2626',
+              'off-white': '#F3F4F6',
+            },
+            fontFamily: {
+              sans: ['Inter', 'sans-serif'],
+              serif: ['Playfair Display', 'serif'], // For "Official" headers
+              urdu: ['Noto Nastaliq Urdu', 'serif'],
+            },
+            backgroundImage: {
+              'dot-pattern': "radial-gradient(#CBD5E1 1px, transparent 1px)",
+            },
+            backgroundSize: {
+              'dot-pattern': '24px 24px',
+            }
+          }
+        }
+      }
+    </script>
+    <style>
+      body {
+        font-family: 'Inter', sans-serif;
+      }
+      .font-urdu {
+        font-family: 'Noto Nastaliq Urdu', serif;
+        line-height: 2;
+      }
+      .bg-dots {
+        background-image: radial-gradient(#94a3b8 1px, transparent 1px);
+        background-size: 32px 32px;
+      }
+    </style>
+  <script type="importmap">
+{
+  "imports": {
+    "react/": "https://esm.sh/react@^19.2.4/",
+    "react": "https://esm.sh/react@^19.2.4",
+    "framer-motion": "https://esm.sh/framer-motion@^12.29.2",
+    "react-dom/": "https://esm.sh/react-dom@^19.2.4/",
+    "lucide-react": "https://esm.sh/lucide-react@^0.563.0"
+  }
+}
+</script>
+<link rel="stylesheet" href="/index.css">
+</head>
+  <body class="bg-paper-white text-slate-900 antialiased selection:bg-state-green selection:text-white">
+    <div id="root"></div>
+  <script type="module" src="/index.tsx"></script>
+</body>
+</html>

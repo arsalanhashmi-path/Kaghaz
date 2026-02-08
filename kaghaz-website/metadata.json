@@ -1,0 +1,5 @@
+{
+  "name": "Kaghaz",
+  "description": "A digital Munshi for Pakistani government documentation. Helps users prepare for NADRA, Passport, and Excise visits with localized checklists and expiration tracking.",
+  "requestFramePermissions": []
+}
